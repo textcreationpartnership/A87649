@@ -1,0 +1,1617 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Scripture security for conscience. Reconciling the safety of truth with the safety of persons. By an honest counterplot to keep off the execution of an expected ordinance. With a Scripture catechisme very usefull in these times. For advancing unity. Suppressing errour. Stating present controversies. Vindicating the covenanted reformation.</title>
+            <author>I. K.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 69 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87649</idno>
+            <idno type="STC">Wing K12</idno>
+            <idno type="STC">Wing K13</idno>
+            <idno type="STC">Thomason E1188_2</idno>
+            <idno type="STC">ESTC R204917</idno>
+            <idno type="EEBO-CITATION">99864365</idno>
+            <idno type="PROQUEST">99864365</idno>
+            <idno type="VID">169451</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87649)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169451)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 167:E1188[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Scripture security for conscience. Reconciling the safety of truth with the safety of persons. By an honest counterplot to keep off the execution of an expected ordinance. With a Scripture catechisme very usefull in these times. For advancing unity. Suppressing errour. Stating present controversies. Vindicating the covenanted reformation.</title>
+                  <author>I. K.</author>
+               </titleStmt>
+               <extent>[6], 18, [2]; [4], 18 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.R. and E.M. for John Bellamie at the three golden Lions in Cornhill neer the Royall Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Postscript to the judicious reader" is signed: I.K.</note>
+                  <note>The words "advancing unity. .. reformation." are bracketed together on title page.</note>
+                  <note>"Scripture security for conscience" has separate dated title page partly in the same setting as the general title page, lacking the words "With a Scripture catechisme .. reformation."; register is continuous. "A Scripture catechisme" (Wing K12) has separate dated title page, register and pagination.</note>
+                  <note>Annotation on Thomason copy: "Nou: 20".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catechisms, English --  Early works to 1800.</term>
+               <term>Great Britain --  Religion --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:169451:1" rendition="simple:additions"/>
+                  <p>SCRIPTURE SECURITY FOR CONSCIENCE. Reconciling the ſafety of truth with the ſafety of perſons. By an honeſt Counterplot to keep off the execution of an expected Ordinance.</p>
+                  <p>With a Scripture CATECHISME Very uſefull in theſe Times.</p>
+                  <p>
+                     <hi>For</hi>
+                     <list>
+                        <item>Advancing Unity.</item>
+                        <item>Suppreſſing Errour.</item>
+                        <item>Stating preſent Controverſies.</item>
+                        <item>Vindicating the Covenanted Re<g ref="char:EOLhyphen"/>formation.</item>
+                     </list>
+                  </p>
+                  <q>
+                     <bibl>2 COR. 11.3.</bibl>
+                     <p>I fear leſt by any means, at the Serpent beguiled <hi>Eve</hi> through his ſubtilty, ſo your minds ſhould be corrupted from the ſimplicity that is in Chriſt.</p>
+                  </q>
+                  <p>
+                     <hi>LONDON,</hi> Printed by <hi>T. R.</hi> and <hi>E. M.</hi> for <hi>John Bellamie</hi> at the three golden Lions in Cornhill neer the Royall Exchange. 1646.</p>
+               </div>
+               <div type="title_page">
+                  <pb facs="tcp:169451:2"/>
+                  <pb facs="tcp:169451:2" rendition="simple:additions"/>
+                  <p>SCRIPTURE SECURITY FOR CONSCIENCE. Reconciling the ſafety of truth with the ſafety of perſons. By an honeſt Counterplot to keep off the execution of an expected Ordinance.</p>
+                  <q>
+                     <bibl>ROM. 13.3, 4.</bibl>
+                     <p>Rulers are not a terror to good works, but to the evill. Wilt thou then not be afraid of the power? do that which is good, and thou ſhalt have praiſe of the ſame; for he is the miniſter of God to thee for good.</p>
+                     <bibl>1 COR. 3.11, 14, 15.</bibl>
+                     <p>Other foundation can no man lay then that is laid. If any mans work abide which he hath built there<g ref="char:EOLhyphen"/>on, he ſhall receive a reward. If any mans works ſhall be burnt, he ſhall ſuffer loſſe, but he himſelfe ſhall be ſaved, yet ſo as by fire.</p>
+                  </q>
+                  <p>
+                     <hi>LONDON,</hi> Printed by <hi>T. R.</hi> and <hi>E. M.</hi> for <hi>John Bellamie</hi> at the three golden Lions in Cornhill neer the Royall Exchange. 1646.</p>
+               </div>
+               <div type="to_the_reader">
+                  <pb facs="tcp:169451:3"/>
+                  <pb facs="tcp:169451:3"/>
+                  <head>To the honeſt Reader.</head>
+                  <p>
+                     <seg rend="decorInit">C</seg>Hriſtian Reader, having met with a Paper walking in publike, intituled an Ordinance, &amp;c. for the preventing of the growing and ſpreading of Hereſies, (a Copie whereof is hereto annexed) I conceived that I might without offence, ſo farre take notice of it in publike, as to lay the weights of the words in view, that thoſe who are skilled in the ballance of the Sanctuary, and have their ſences exerciſed to diſcerne the things that differ, may more readily ſee which way the Scales ſhould turne. The good God guide the hands of Au<g ref="char:EOLhyphen"/>thority, and the hearts of people to thoſe wayes which are firſt pure, and then peaceable: that thoſe Plants which are of Gods planting may be cheriſht, and thoſe which are not may be rooted up. The love which I bear to truth, and the ſervice I owe to thoſe that are willing to take paines to finde it: hath made me take this familiar way of Catechiſme to help them; which that they may reap the benefit of, I muſt earneſtly intreat them, in the peruſall of the alleadged Scriptures, to take notice not only of the words, but alſo of the ſcope of the holy Ghoſt in them; without which they will fall ſhort of that
+<pb facs="tcp:169451:4"/>
+ſatisfaction which they might attain. You may make experiment how advantagious this courſe is, if you turne to the queſtion concerning Rebaptizing, and finde that in the Scripture there cited, <hi>Acts 19.</hi> (which place hath much exerciſed the judgement of the learned) the ſcope of the Apoſtle <hi>Paul</hi> is to ſhow that the Diſciples, who were long before bapti<g ref="char:EOLhyphen"/>zed (though ſtill they were ſo unable to make con<g ref="char:EOLhyphen"/>feſſion of their faith, as that they had not ſo much as heard whether there were any holy Ghoſt; nor could well tell unto what they were baptized: yet) ought not to be baptized againe; for as much as they were baptized in the name of Jeſus, which he makes good to them from the Doctrine of <hi>John</hi> the Baptiſt, who taught repentance and faith in Chriſt. One thing more I muſt acquaint you with, which is, that divers particulars which might be here expected, I have pur<g ref="char:EOLunhyphen"/>poſely omitted, having already ſpoken to them in ano<g ref="char:EOLhyphen"/>ther Treatiſe intituled <hi>A Scripture Catechiſm for the times,</hi> to which I referre you for ſatisfaction; de<g ref="char:EOLhyphen"/>ſiring you to improve your Talent in the ſame deſigne with me, which is, to build the ſafety of perſons on the foundation of truth. I ſhall conclude with the encouraging concluſion of the Apoſtle <hi>James, Bre<g ref="char:EOLhyphen"/>thren, if any of you do erre from the truth, and one convert him, let him know, that he which converteth the ſinner from the errour of his way, ſhall ſave a ſoule from death, and ſhall hide a multitude of ſins.</hi>
+                  </p>
+               </div>
+            </front>
+            <body>
+               <div type="text">
+                  <pb n="1" facs="tcp:169451:4"/>
+                  <head>SCRIPTURE SECURITY FOR CONSCIENCE.</head>
+                  <div n="1" type="doctrine">
+                     <head>The firſt ranke of Doctione.</head>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Q. </seg>1</label>  
+                        <hi>
+                           <seg rend="decorInit">I</seg>S God preſent in all places?</hi>
+                     </p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">A. </seg>
+                        </label> Whether ſhall I go from thy preſence? If I aſcend up into Heaven, thou art there: If I make my bed in Hell, be<g ref="char:EOLhyphen"/>hold thou art there: If I take the wings of the morning, and dwell in the uttermoſt parts of the Sea, even there ſhall thine hand lead me. <hi>Pſalme</hi> 139.7, 8, 9, 10.</p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Q. </seg>2</label>  
+                        <hi>Is there a God?</hi>
+                     </p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">A. </seg>
+                        </label> He that Cometh to God, muſt beleeve that he is, <hi>Hebr.</hi> 11.6.</p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Q. </seg>3</label>  
+                        <hi>Is God on in three perſons?</hi>
+                     </p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">A. </seg>
+                        </label> There are three that bear record in Hea<g ref="char:EOLhyphen"/>ven, the Father, the Word, and the holy Ghoſt: and theſe three are one, 1 <hi>John</hi> 5.7.</p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Q. </seg>4</label>  
+                        <hi>Doth God know all things?</hi>
+                     </p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">A. </seg>
+                        </label> Neither is there any creature that is not
+<pb n="2" facs="tcp:169451:5"/>
+manifeſt in his ſight, but all things are naked and open unto the eyes of him with whom we have to do. <hi>Hebr.</hi> 4.13.</p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Q. </seg>5</label>  
+                        <hi>Is God almighty?</hi>
+                     </p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">A. </seg>
+                        </label> With God all things are poſſible. <hi>Matth.</hi> 19.26.</p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Q. </seg>6</label>  
+                        <hi>Is God perfectly holy?</hi>
+                     </p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">A. </seg>
+                        </label> Holy, holy, holy, is the Lord of Hoſts, the whole earth is full of his glory. <hi>Iſa.</hi> 6.3.</p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Q. </seg>7</label>  
+                        <hi>Is God eternall?</hi>
+                     </p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">A. </seg>
+                        </label> Before the mountains were brought forth, or ever thou hadſt formed the earth and the world: even from everlaſting to everlaſting thou art God. <hi>Pſal.</hi> 90.2.</p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Q. </seg>8</label>  
+                        <hi>Is Chriſt God coequall with the Father?</hi>
+                     </p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">A. </seg>
+                        </label> Chriſt Jeſus being in the forme of God, thought it no robbery to be equall with God. <hi>Phil.</hi> 2.5, 6.</p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Q. </seg>9</label>  
+                        <hi>Is Chriſt a man?</hi>
+                     </p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">A. </seg>
+                        </label> There is one Mediator between God and men, the man Chriſt Jeſus. 1 <hi>Tim.</hi> 2.5.</p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Q. </seg>10</label>  
+                        <hi>Are the Godhead and manhood of Chriſt ſeverall natures?</hi>
+                     </p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">A. </seg>
+                        </label> Thou being a man makeſt thy ſelfe God<g ref="char:punc">▪</g> 
+                        <hi>John</hi> 10.33.</p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Q. </seg>11</label>  
+                        <hi>Is the manhood of Chriſt pure, unſpotted of ſin?</hi>
+                     </p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">A. </seg>
+                        </label> Such an high-Prieſt became us who is ho<g ref="char:EOLhyphen"/>ly, harmleſſe, undefiled, ſeparate from ſinners. <hi>Hebr.</hi> 7.26.</p>
+                     <pb n="3" facs="tcp:169451:5"/>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Q. </seg>12</label>  
+                        <hi>Did Chriſt dye?</hi>
+                     </p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">A. </seg>
+                        </label> It is Chriſt that died. <hi>Rom.</hi> 8.34.</p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Q. </seg>13</label>  
+                        <hi>Did Chriſt riſe from the dead?</hi>
+                     </p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">A. </seg>
+                        </label> The Angel anſwered, and ſaid unto the woman, fear not ye, for I know ye ſeek that Jeſus that was crucified: he is not here, he is riſen. <hi>Mat.</hi> 28.5, 6.</p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Q. </seg>14</label>  
+                        <hi>Is Chriſt aſcended into Heaven bodily?</hi>
+                     </p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">A. </seg>
+                        </label> This ſame Jeſus which is taken up from you into Heaven, ſhall ſo come in like manner, as ye have ſeen him go into Heaven. <hi>Acts</hi> 1.11.</p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Q. </seg>15</label>  
+                        <hi>Is Chriſts death meritorious in behalf of beleevers?</hi>
+                     </p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">A. </seg>
+                        </label> The redemption that is in Jeſus Chriſt, whom God hath ſet forth to be a propitiation through faith in his bloud, <hi>Rom.</hi> 3.24, 25.</p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Q. </seg>16</label>  
+                        <hi>Is Chriſt the Son of God?</hi>
+                     </p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">A. </seg>
+                        </label> We know that the Son of God is come, and hath given us an underſtanding, that we may know him that is true, and we are in him that is true, even in his Son Jeſus Chriſt. 1 <hi>John</hi> 5 20.</p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Q. </seg>17</label>  
+                        <hi>Is the holy Ghost God?</hi>
+                     </p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">A. </seg>
+                        </label> Why hath Satan filled thy heart to lye to the holy Ghoſt? Why haſt thou conceived this thing in thine heart? thou haſt not lyed unto men, but unto God? <hi>Acts</hi> 5.3, 4,</p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Q. </seg>18</label>  
+                        <hi>Are the Scriptures the word of God?</hi>
+                     </p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">A. </seg>
+                        </label> All Scripture is given by inſpiration of God. 2 <hi>Tim.</hi> 3.16.</p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Q. </seg>19</label>  
+                        <hi>Shall the bodies of men riſe after they he dead?</hi>
+                     </p>
+                     <pb n="4" facs="tcp:169451:6"/>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">A. </seg>
+                        </label> I worſhip the God of my fathers, belee<g ref="char:EOLhyphen"/>ving all things that are written in the Law and the Prophets: and have hope towards God, which they themſelves alſo alow, that there ſhall be a reſurrection of the dead, both of the juſt and unjuſt. <hi>Acts</hi> 24.14, 15.</p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Q. </seg>20</label>  
+                        <hi>Is there a day of judgement after death?</hi>
+                     </p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">A. </seg>
+                        </label> I ſaw the dead, ſmall and great, ſtand be<g ref="char:EOLhyphen"/>fore God, and the Books were opened: and a<g ref="char:EOLhyphen"/>nother Book was opened which is the Book of life: and the dead were judged out of thoſe things which were written in the Books accor<g ref="char:EOLhyphen"/>ding to their works: and the Sea gave up the dead which were in it: and death and hell delivered up the dead which were in them: and they were judged euery man according to their works. <hi>Rev.</hi> 20.12, 13.</p>
+                     <div type="part">
+                        <p>
+                           <hi>Deut.</hi> 13.6, 8, 9. If thy brother, the ſonne of thy mother, or thy ſonne, or thy daughter or the wife of thy boſome, or thy friend which is as thine owne ſoule, entiſe thee ſecretly, ſaying; let us go and ſerve other gods, neither ſhalt thou ſpare, neither ſhalt thou conceale him, but thou ſhalt ſurely kill him, thine hand ſhall be firſt up<g ref="char:EOLhyphen"/>on him to put him to death, and afterwards the hand of all the people.</p>
+                        <p>2 <hi>Chron.</hi> 15.12, 13, 15. They entred into a Covenant to ſeek the Lord God of their fathers,
+<pb n="5" facs="tcp:169451:6"/>
+with all their heart, and with all their ſoule: that whoſoever would not ſeek the Lord God of <hi>Iſ<g ref="char:EOLhyphen"/>rael,</hi> ſhould be put to death, whether ſmall or great, whether man or woman. And all <hi>Judah</hi> rejoyced at the Oath; for they had ſworne with all their heart, and ſought him with their whole deſire, and he was found of them; and the Lord gave them reſt round about.</p>
+                     </div>
+                     <div type="part">
+                        <head>Concerning Blaſphemy and impugning the Word of God.</head>
+                        <p>
+                           <hi>EXod.</hi> 20.7. Thou ſhalt not take the Name of the Lord thy God in vaine; for the Lord will not hold him guiltleſſe, that taketh his Name in vaine.</p>
+                        <p>
+                           <hi>Levit.</hi> 24.11.12, 13, 14. The Iſraelitiſh wo<g ref="char:EOLhyphen"/>mans ſonne blaſphemed the Name of the Lord, and curſed, and they brought him unto <hi>Moſes;</hi> and they put him in Ward, that the minde of the Lord might be ſhewed them. And the Lord ſpake unto <hi>Moſes,</hi> ſaying, bring forth him that hath curſed, without the campe, and let all that heard him lay their hands upon his head, and let all the Congregation ſtone him.</p>
+                        <p>
+                           <hi>Dan.</hi> 3.29. Therefore I make a decree, that every people, Nation, and Language, which ſpeak any thing amiſſe againſt the God of <hi>Shadrach,
+<pb n="6" facs="tcp:169451:7"/>
+Miſhach,</hi> and <hi>Abednego,</hi> ſhall be cut in peeces, and their houſes ſhall be made a dunghill, becauſe there is no other God.</p>
+                        <p>
+                           <hi>Job</hi> 2.9. Curſe God, and dye.</p>
+                        <p>1 <hi>Cor.</hi> 12.3. No man ſpeaking by the ſpirit of God, calleth Jeſus accurſed.</p>
+                        <p>
+                           <hi>Acts</hi> 13.10, 11. Thou enemy of all righteouſ<g ref="char:EOLhyphen"/>neſſe, wilt thou not ceaſe to pervert the right wayes of the Lord? and now behold the hand of the Lord is upon thee, and thou ſhalt be blind.</p>
+                        <p>
+                           <hi>Heb.</hi> 10.28, 29. He that deſpiſed <hi>Moſes</hi> Law, died without mercy under two or three witneſ<g ref="char:EOLhyphen"/>ſes. Of how much ſorer puniſhment, ſuppoſe ye, ſhall he be thought worthy, who hath trodden under foot the Son of God? &amp;c.</p>
+                        <p>
+                           <hi>Rev.</hi> 22.18, 19. If any man ſhall adde unto theſe things, God ſhal adde unto him the plagues that are written in this Book: and if any man ſhall take away from the words of the Book of this Prophecy, God ſhall take away his part out of the Book of life.</p>
+                     </div>
+                  </div>
+                  <div n="2" type="doctrine">
+                     <head>The ſecond ranke of Doctrines.</head>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Q. </seg>1</label>  
+                        <hi>SHall all men be ſaved?</hi>
+                     </p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">A. </seg>
+                        </label> Then one ſaid unto him, Lord, are there few that ſhall be ſaved? and he ſaid unto them, ſtrive to enter in at the ſtrait gate: for
+<pb n="7" facs="tcp:169451:7"/>
+many I ſay unto you, will ſeek to enter in, and ſhal not be able. <hi>Luke</hi> 13.23, 24.</p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Q. </seg>2</label>  
+                        <hi>Hath a man by nature free will to turne to God?</hi>
+                     </p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">A. </seg>
+                        </label> The naturall man receiveth not the things of the Spirit of God, for they are foliſhneſſe un<g ref="char:EOLhyphen"/>to him, neither can he know them, becauſe they are ſpiritually diſcerned. 1 <hi>Cor.</hi> 2.14.</p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Q. </seg>3</label>  
+                        <hi>May God be worſhip'd by Pictures or Images?</hi>
+                     </p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">A. </seg>
+                        </label> Take ye good heed unto your ſelves (for ye ſaw no manner of ſimilitude on the day that the Lord ſpake unto you in <hi>Horeb,</hi> out of the midſt of the fire) leaſt ye corrupt your ſelves, and make you a graven Image, the ſimilitude of any figure. <hi>Deut.</hi> 4.15, 16.</p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Q. </seg>4</label>  
+                        <hi>Doth the ſoule of any man after death go to purgatory?</hi>
+                     </p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">A. </seg>
+                        </label> I heard a voyce from heaven, ſaying unto me, write, bleſſed are the dead which dye in the Lord from henceforth, yea, ſaith the Spirit, that they may reſt from their labours, and their works do follow them. <hi>Rev.</hi> 14.13.</p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Q. </seg>5</label>  
+                        <hi>Do the ſouls of good men dye or ſleep when their bodies are dead?</hi>
+                     </p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">A. </seg>
+                        </label> Ye are come unto Mount Sion, and unto the City of the living God, the Heavenly Jeruſa<g ref="char:EOLhyphen"/>lem, and to an innumerable company of Angels, to the generall aſſembly and Church of the firſt borne, which are written in Heaven, and to
+<pb n="8" facs="tcp:169451:8"/>
+God the judge of all, and to the ſpirits of juſt men made parfect. <hi>Heb,</hi> 12.22, 23.</p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Q. </seg>6</label>  
+                        <hi>Do the ſoules of bad men dye or ſleep when their bodies are dead?</hi>
+                     </p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">A. </seg>
+                        </label> Their worme dyeth not. <hi>Mark.</hi> 9.44.</p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Q. </seg>7</label>  
+                        <hi>Are there revelations or workings of the ſpirit, as a rule for a Chriſtians life; though divers from or contrary to the written word of God?</hi>
+                     </p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">A. </seg>
+                        </label> This voyce which came from Heaven wee heard, and we were with him in the holy Mount. We have alſo a more ſure word of prophecy, whereunto yee do well that yee take heed, as un<g ref="char:EOLhyphen"/>to a light that ſhineth in a dark place, untill the day dawne and the day-ſtarre ariſe in your hearts. Knowing this firſt, that no prophecy of the Scripture is of any private inrerpretation: for the prophecy came not in old time by the will of man, but holy men of God ſpake as they were moved by the holy Ghoſt. 2. <hi>Pet.</hi> 1.18.19, 20, 21.</p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Q. </seg>8</label>  
+                        <hi>Is a man bound to beleeve no more then by his reaſon he can comprehend?</hi>
+                     </p>
+                     <p>
+                        <hi>A</hi> Bebold thou ſhalt be dumbe and not able to ſpeak, untill the day that theſe things ſhall bee performed, becauſe thou beleeveſt not my words, which ſhall be fulfilled. <hi>Luke,</hi> 1.20.</p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Q. </seg>9</label>  
+                        <hi>Is the morall Law contained in the ten Commandements a rule of a Chriſtian life?</hi>
+                     </p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">A. </seg>
+                        </label> Owe no man any thing, but to love one another: for he that loveth an other, hath fulfil<g ref="char:EOLhyphen"/>led
+<pb n="9" facs="tcp:169451:8"/>
+the law. For this thou ſhalt not commit adul<g ref="char:EOLhyphen"/>tery, thou ſhalt not kill, thou ſhalt not ſteale, thou ſhall not beare falſe witneſſe, thou ſhalt not covet: and if there be any other Commande<g ref="char:EOLhyphen"/>ment, it is breifly comprehended in this ſaying, namely, thou ſhalt love thy neighbour as thy ſelf. <hi>Rom.</hi> 13.8, 9.</p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Q. </seg>10</label>  
+                        <hi>Doth God ſee ſinne in the juſtified?</hi>
+                     </p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">A. </seg>
+                        </label> Againſt thee, thee only have I ſinned, and done this evill in thy ſight. <hi>Pſal.</hi> 51.4.</p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Q. </seg>11</label>  
+                        <hi>Need a beleever repent?</hi>
+                     </p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">A. </seg>
+                        </label> Rememember therefore from whence thou art fallen, and repent, and do the firſt works, or elſe I will come unto thee quickly, and will re<g ref="char:EOLhyphen"/>move thy Candleſtick out of his place, except thou repent. <hi>Revel.</hi> 2.5.</p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Q. </seg>12</label>  
+                        <hi>Is the Sacrament of baptiſme an Ordi<g ref="char:EOLhyphen"/>nance commanded by the word of God?</hi>
+                     </p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">A </seg>
+                        </label> Go ye therefore, and teach all Nations, baptizing them in the Name of the Father, and of the Sonne, and of the Holy Ghoſt. <hi>Matth.</hi> 28.19.</p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Q. </seg>13</label>  
+                        <hi>Is the Sacrament of the Lords Supper an Ordinance commanded by the word of God?</hi>
+                     </p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">A. </seg>
+                        </label> I have received of the Lord, that which al<g ref="char:EOLhyphen"/>ſo I delivered unto you, that the Lord Ieſus, the ſame night in which he was betrayed, took bread: and when he had given thanks he brake it, and ſaid, take, eate, this is my body which is broken for you: this do in remembrance of me. After
+<pb n="10" facs="tcp:169451:9"/>
+the ſame manner alſo he took the cup, when he had ſupped, ſaying, this cup is the New Teſta<g ref="char:EOLhyphen"/>ment in my blood: this do yee as oft as yee drink it in remembrance of me. 1. <hi>Cor.</hi> 11.23, 24, 25.</p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Q. </seg>14</label>  
+                        <hi>Is the baptizing of Infants lawfull?</hi>
+                     </p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">A </seg>
+                        </label> Be baptized every one of you in the Name of Jeſus Chriſt for the remiſſion of ſinnes, and yee ſhall receive the gift of the Holy Ghoſt. For the promiſe is unto you and to your Chil<g ref="char:EOLhyphen"/>dren. <hi>Act.</hi> 2.38, 39.</p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Q. </seg>15</label>  
+                        <hi>Is ſuch baptizing void, or effectuall?</hi>
+                     </p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">A. </seg>
+                        </label> Loe I am with you alway even unto the end of the world. <hi>Matth.</hi> 28.20.</p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Q. </seg>16</label>  
+                        <hi>Is it lawfull to baptize a perſon former<g ref="char:EOLhyphen"/>ly baptized?</hi>
+                     </p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">A. </seg>
+                        </label> 
+                        <hi>John</hi> verily baptized with the baptiſme of Repentance, ſaying unto the people, that they ſhould beleeve on him which ſhould come after him, that is, on Chriſt Jeſus. When they heard this, they were baptized in the Name of the Lord Jeſus. <hi>Acts,</hi> 19.4, 5.</p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Q. </seg>17</label>  
+                        <hi>Is it lawfull to joyne in publike prayer?</hi>
+                     </p>
+                     <p>
+                        <hi>A. Peter</hi> and <hi>John</hi> went up together into the Temple at the houre of prayer, being the ninth houre. <hi>Acts,</hi> 3.1.</p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Q. </seg>18</label>  
+                        <hi>Is it lawfull to teach Children to pray<g ref="char:punc">▪</g>
+                        </hi>
+                     </p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">A. </seg>
+                        </label> Traine up a Child in the way that hee ſhould goe; and when he is old he will not de<g ref="char:EOLhyphen"/>part from it. <hi>Prov.</hi> 22.6.</p>
+                     <pb n="11" facs="tcp:169451:9"/>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Q. </seg>19</label> 
+                        <hi>Is the power of the civill Magiſtrate by law eſtabliſhed in</hi> England <hi>lawfull?</hi>
+                     </p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">A. </seg>
+                        </label> Let every ſoule be ſubject to the higher powers; for there is no power but of God. The powers that be are ordained of God. Whoſoever therefore reſiſteth the power, reſiſteth the ordi<g ref="char:EOLhyphen"/>nance of God; and they that reſiſt, ſhall receive to themſelves damnation. <hi>Rom.</hi> 13.1.2.</p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Q. </seg>20</label>  
+                        <hi>Is the uſe of armes for publike defence in a juſt cauſe lawfull?</hi>
+                     </p>
+                     <p>
+                        <label type="milestone">
+                           <seg type="milestoneunit">A. </seg>
+                        </label> Curſe ye <hi>Meroz</hi> (ſaid the Angel of the Lord) curſe yee bitterly the Inhabitans thereof; becauſe they came not to the help of the Lord, to the help of the Lord againſt the mighty. <hi>Judg.</hi> 5.23.</p>
+                     <div type="part">
+                        <p>1. <hi>King.</hi> 15.13. And alſo <hi>Maachah</hi> his Mo<g ref="char:EOLhyphen"/>ther, even her he removed from being Queen, be<g ref="char:EOLhyphen"/>cauſe ſhe had made an Idoll in a grove.</p>
+                        <p>2. <hi>John,</hi> 9.10, 11. Whoſoever tranſgreſſeth, and abideth not in the doctrine of Chriſt, hath not God. Hee that abideth in the doctrine of Chriſt, he hath both the Father and the Son. If there come any unto you and bring not this do<g ref="char:EOLhyphen"/>ctrin, receive him not into your houſe, neither bid him God ſpeed; for he that biddeth him God ſpeed, is pertaker of his evill deeds.</p>
+                        <p>2. <hi>Pet.</hi> 2.10.12. And deſpiſe government, pre<g ref="char:EOLhyphen"/>ſumptuous are they; ſelf-willed; they are not a<g ref="char:EOLhyphen"/>fraid to ſpeak evill of dignities. Theſe as naturall
+<pb n="12" facs="tcp:169451:10"/>
+bruit beaſts made to be taken and deſtroyed, ſpeak evill of the things that they underſtand not, and ſhall utterly periſh in their own corruption.</p>
+                        <p>
+                           <hi>Revel.</hi> 17.16. The ten hornes which thou ſaw<g ref="char:EOLhyphen"/>eſt upon the Beaſt theſe ſhal hate the Whore, and ſhall make her deſolate, and naked, and ſhall eate her fleſh, and ſhall burne her with fire.</p>
+                        <p>
+                           <hi>Revel.</hi> 2.14. I have a few things againſt thee, becauſe thou haſt there them that hold the do<g ref="char:EOLhyphen"/>ctrine of <hi>Balaam,</hi> who taught <hi>Balac</hi> to caſt a ſtumbling block before the Children of <hi>Iſrael,</hi> to eate things ſacrificed unto Idolls, and to commit fornication.</p>
+                     </div>
+                  </div>
+                  <trailer>FINIS.</trailer>
+               </div>
+               <div type="ordinance">
+                  <pb n="13" facs="tcp:169451:10"/>
+                  <head>An Ordinance preſented to the Honorable Houſe of Commons, by M. <hi>Bacon,</hi> a Lawyer in <hi>Suffolk,</hi> and M. <hi>Taet,</hi> both of them Mem<g ref="char:EOLhyphen"/>bers of the ſame Houſe, and by their means was twice read, and referred to a <hi>Committee.</hi> For the preventing of the growing and ſpreading of Hereſies.</head>
+                  <div n="1" type="doctrine">
+                     <head>The firſt ranke of Doctrine.</head>
+                     <p>
+                        <seg rend="decorInit">B</seg>E it ordained, That all ſuch as ſhall from and after the Date hereof, willingly Preach, Teach, Print, or Write, publiſh and maintain, any ſuch opinion contrary to the Doctrines enſuing;</p>
+                     <p>
+                        <hi>Viz.</hi>
+                        <note n="a" place="margin">Acts 17.27.28.</note> That (1) God is preſent in all pla<g ref="char:EOLhyphen"/>ces,<note n="b" place="margin">Pſal. 14.1</note> That (2) God Is,<note n="c" place="margin">1 Joh. 5.7</note> or that he is (3) One in three Perſons,<note n="d" place="margin">1 John 3 20.</note> Or doth (4) know or fore-know all things;<note n="e" place="margin">Job. 42.1</note> Or that he is (5) Almighty,<note n="f" place="margin">Ex. 15.11</note> Or that he is (6) perfect<g ref="char:EOLhyphen"/>ly
+<pb n="14" facs="tcp:169451:11"/>
+Holy,<note n="g" place="margin">1 Tim. 1.17.</note> Or that he is (7) Eternall. Or that ſhall in like manner publiſh <note n="h" place="margin">John 10.30.</note> That Chriſt is not (8) God coequall with the Father;<note n="i" place="margin">1 Cor. 15 47.</note> Or ſhall deny the (9) Manhood of Chriſt,<note n="k" place="margin">Hab. 2.16.</note> Or that the (10) Godhead and Manhood of Chriſt are ſeverall Natures,<note n="l" place="margin">Luke 1.35</note> Or that the (11) Manhood of Chriſt, is pure unſpot<g ref="char:EOLhyphen"/>ted of ſinne; Or that ſhall publiſh, <note n="m" place="margin">Matth. 27.55.</note> That (12) Chriſt did not die,<note n="n" place="margin">Matth. 28.7.</note> or (13) roſe from the dead,<note n="o" place="margin">Acts 7.56</note> nor (14) is aſcended into Heaven bodily,<note n="p" place="margin">Gal. 3.13 14.</note> Or that his death is (15) meritorious in behalfe of Beleevers. Or that ſhall publiſh or maintain, as aforeſaid,<note n="q" place="margin">Matt. 3.17.</note> that (16) Chriſt is not the Sonne of God,<note n="r" place="margin">1 Cor. 3.16.</note> Or that the (17) Holy Ghoſt is not God,<note n="ſ" place="margin">2 Pet. 1.21.</note> Or that the (18) Scriptures are not the Word of God,<note n="t" place="margin">Job 19.26.</note> Or that the (19) Bodies of Men ſhall not riſe after they be dead,<note n="u" place="margin">Acts 17.31.</note> Or that there is no (20) day of judgement after death.</p>
+                     <p>Such publiſhing with obſtinacie, ſhall be judged Felony: Such perſons ſhall by two witneſſes be bound over by two Ju<g ref="char:EOLhyphen"/>ſtices unto the Gayl-delivery, and the Delinquent ſhall be indited for Felony; and upon finding the ſame inditement, and that the party be found guilty, and ſhall not abjure his ſaid Error,<note n="w" place="margin">Zech. 13.3. Deut. 13.5, 6, 8, 9. 2 Chron. 15.12, 13, 14.</note> he ſhall
+<pb n="15" facs="tcp:169451:11"/>
+ſuffer the pains of death, without be<g ref="char:EOLhyphen"/>nefit of Clergy: But upon abjuring of the ſaid Error, he ſhall upon two ſuffici<g ref="char:EOLhyphen"/>ent Sureties be bailed.</p>
+                     <p>And be it further ordained, that if after abjuring the ſaid Errors, he ſhall publiſh it again, he ſhall be indited and put to death.</p>
+                     <p>And be it further ordered, that if any perſon ſhall wittingly and pre<g ref="char:EOLhyphen"/>ſumptuouſly, or contrary to admoniti<g ref="char:EOLhyphen"/>on, blaſpheme the Name of God, or any of the holy Trinity, or ſhall im<g ref="char:EOLhyphen"/>pugne the Word of God, ſuch offences ſhall be adjudged Felony, and the offen<g ref="char:EOLhyphen"/>der committed without Bayl or Main-prize; and the party being found guil<g ref="char:EOLhyphen"/>ty ſhall be branded in the left Cheek, with the letter <hi>B.</hi> and upon the like of<g ref="char:EOLhyphen"/>fence the ſecond time<note n="x" place="margin">Levit. 24 16. Job 2.9. Dan. 3.29. Heb. 10.28 29.</note> ſhall ſuffer death.</p>
+                  </div>
+                  <div n="2" type="doctrine">
+                     <head>The ſecond ranke of Doctrines.</head>
+                     <p>ANd be it further ordained, that all perſons who ſhall publiſh any of theſe ſeverall Errors hereafter enſuing,
+<pb n="16" facs="tcp:169451:12"/>
+                        <hi>viz.</hi>
+                        <note n="y" place="margin">Matth. 25.41.</note> That (1) all men ſhall be ſa<g ref="char:EOLhyphen"/>ved;<note n="z" place="margin">Joh. 3.5.</note> that a man by nature (2) hath free will to turne to God;<note n="a" place="margin">Acts 17.25.</note> That God (3) may be worſhipt by Pictures or Ima<g ref="char:EOLhyphen"/>ges,<note n="b" place="margin">Luke 16 22, 23.</note> or that the (4) ſoule of any man after death goes neither to Heaven nor Hell, but to Purgatory;<note n="c" place="margin">Acts 1.25</note> or that the ſoule (5, 6) of man dies or ſleepes when the body is dead;<note n="d" place="margin">Pſ. 19.7.</note> or that the (7) re<g ref="char:EOLhyphen"/>velations or workings of the Spirit, are a rule for a Chriſtians life; though di<g ref="char:EOLhyphen"/>vers from or contrary to the written Word of God;<note n="e" place="margin">1 Cor. 2.14.</note> or that a man is (8) bound to beleeve no more then by his reaſon he can comprehend;<note n="f" place="margin">Eph. 6.2.</note> or that the (9) Morall Law contained in the Ten Commandements is no rule of a Chriſtian life,<note n="g" place="margin">2 Sam. 12 9.</note> or that God ſees no (10) ſinne in the juſtified; or<note n="h" place="margin">Rev. 3.19</note> that a (11) Beleever need not repent<note n="i" place="margin">Pſ 51.9.</note> not pray for the pardon of ſinne; or that the two Sacraments of<note n="k" place="margin">John 4.1.2.</note> (12) Baptiſme, and the<note n="l" place="margin">Luke 22.19, 20.</note> (13) Lords Supper, are not Ordinances commanded by the Word of God; or that (14) the<note n="m" place="margin">Math. 19.14.</note> Baptizing of Infants is unlawfull;<note n="n" place="margin">Rom. 3.3, 4.</note> or that ſuch (15) Baptizing is void, and of none ef<g ref="char:EOLhyphen"/>fect;<note n="o" place="margin">Mark 16 16.</note> or that ſuch perſons are to bee (16) Baptized againe: and in purſu<g ref="char:EOLhyphen"/>ance thereof, ſhall baptize any perſon <pb n="17" facs="tcp:169451:12"/>
+formerly baptized:<note n="p" place="margin">Exod. 20.8.</note> or that the ob<g ref="char:EOLhyphen"/>ſervation of the Lords Day, as it is injoyned by the Ordinances and Lawes of this Realme, is not according, or contrary to the Word of God,<note n="q" place="margin">1 Cor. 14, 15, 16.</note> or that it is not lawfull to joyn in (17) pub<g ref="char:EOLhyphen"/>like,<note n="r" place="margin">1 Pet. 3.7</note> or Family Prayer,<note n="ſ" place="margin">2 Tim. 3.15.</note> or to (18) teach children to pray;<note n="t" place="margin">Rev. 1.20</note> Or that the Churches of <hi>England</hi> are not true Chur<g ref="char:EOLhyphen"/>ches;<note n="u" place="margin">Rom. 10 13, 14, 15.</note> Or that the Miniſters or Or<g ref="char:EOLhyphen"/>dinances, are not true Miniſters or Ordinances;<note n="w" place="margin">1 Tim. 4.14.</note> Or that the Church go<g ref="char:EOLhyphen"/>vernment by Presbytery, is Antichri<g ref="char:EOLhyphen"/>ſtian, or unlawfull;<note n="x" place="margin">1 Pet. 2.13, 14.</note> or that the Ma<g ref="char:EOLhyphen"/>giſtracy, or (19) power of the Civill Magiſtrate by Law eſtabliſhed in <hi>En<g ref="char:EOLhyphen"/>gland,</hi> is unlawfull;<note n="y" place="margin">Nehem. 4.14.</note> or that all the uſe of (20) Armes for Publike defence (be the Cauſe never ſo juſt) is unlaw<g ref="char:EOLhyphen"/>full.</p>
+                     <p>And in caſe the party ſo accuſed for any of the ſaid Errors, bee com<g ref="char:EOLhyphen"/>mitted before two Juſtices, the party ſo committed ſhall bee ordered to re<g ref="char:EOLhyphen"/>nounce his ſaid Error in the publike Congregation of the Pariſh Church whence the complaint comes; and in caſe hee refuſes or neglects the ſame at or upon the day, time, and place
+<pb n="18" facs="tcp:169451:13"/>
+appointed by the ſaid Juſtices,<note n="z" place="margin">Num. 15.34. Tit. 1.10, 11. Rev. 2.14. 2 Pet. 2.10, 12. Gal. 5.12.</note> that he ſhall bee committed to priſon by the ſaid Juſtices, untill hee ſhall finde two Sureties, of Subſidy men, that hee ſhall not publiſh or maintain the ſaid Error or Errors any more.</p>
+                  </div>
+                  <trailer>FINIS.</trailer>
+                  <pb facs="tcp:169451:13"/>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:169451:14"/>
+                  <pb facs="tcp:169451:14"/>
+                  <p>A Scripture CATECHISME Very uſefull in theſe Times.</p>
+                  <p>
+                     <hi>For</hi>
+                     <list>
+                        <item>Advancing Unity.</item>
+                        <item>Suppreſſing Errour.</item>
+                        <item>Stating preſent Controverſies.</item>
+                        <item>Vindicating the Covenanted Re<g ref="char:EOLhyphen"/>formation.</item>
+                     </list>
+                  </p>
+                  <q>
+                     <bibl>1 COR. 3, 2, 3.</bibl>
+                     <p>I have fed you with milke, and not with meat: for hitherto ye were not able to bear it, neither yet now are ye able. For ye are yet carnall: for where<g ref="char:EOLhyphen"/>as there is among you envying, and ſtrife, and divi<g ref="char:EOLhyphen"/>ſions, are ye not carnall?</p>
+                     <bibl>2 COR. 11.3.</bibl>
+                     <p>I fear leſt by any means, as the Serpent beguiled <hi>Eve</hi> through his ſubtilty, ſo your minds ſhould be corrupted from the ſimplicity that is in Chriſt.</p>
+                     <bibl>2 TIM. 1.13.</bibl>
+                     <p>Hold faſt the form of ſound words which thou haſt heard of me, in faith and love, &amp;c.</p>
+                  </q>
+                  <p>
+                     <hi>LONDON,</hi> Printed by <hi>T. R.</hi> and <hi>E. M.</hi> for <hi>John Bellamie</hi> at the three golden Lions in Cornhill neer the Royall Exchange. 1646.</p>
+               </div>
+               <div type="to_the_reader">
+                  <pb facs="tcp:169451:15"/>
+                  <pb facs="tcp:169451:15"/>
+                  <head>To the teachable Reader.</head>
+                  <p>
+                     <seg rend="decorInit">H</seg>
+                     <g ref="char:V">Ʋ</g>mble Reader, who art willing to ſtoop to the contemned Ordinance of Catechiſme, God hath promi<g ref="char:EOLhyphen"/>ſed to teach you; and to that pur<g ref="char:EOLhyphen"/>poſe all are yours; all his Ordi<g ref="char:EOLhyphen"/>nances, all his ſervants, their gifts, experiences, labours; the ableſt, the meaneſt, all are yours: amongſt which my poore mite is ac<g ref="char:EOLhyphen"/>countable to you. Some few yeers ſince, when di<g ref="char:EOLhyphen"/>vers of the new Opinions that now have ſeized up<g ref="char:EOLhyphen"/>on many, were firſt repreſented to me, and I ſaw them entertained by ſome perſons that were preci<g ref="char:EOLhyphen"/>ous, in my thoughts, and managed by ſuch argu<g ref="char:EOLhyphen"/>ments, as at the firſt ſight ſeemed to carry ſtrength with them: I muſt confeſſe I beganne to ſtagger thereat: whereupon for my own ſatisfaction I was inquiſitive after ſuch Treatiſes on all hands as wrote either for or againſt them; which I there<g ref="char:EOLhyphen"/>fore mention, that I may give you an account of what experience hath taught me; namely; that there is more ſatisfaction to be gained by a diligent weighing of ſome one Scripture, then by reading over many other books; for, indeed, the Scripture is the ſupreme judge of controverſies; and all that the ableſt men can ſpeak for the opening of Scri<g ref="char:EOLhyphen"/>pture,
+<pb facs="tcp:169451:16"/>
+muſt be reſolved into Scripture, before it can ground faith and ſatisfie conſcience, which is the drift of this Catechiſme, wherewith thou mayeſt expect a bleſſing, if thou ſhalt pray, read, and ſtudy the anſwers; wherein I have not been ſo carefull, to give you the forme of an anſwer; as to referre you to ſuch Scriptures as afford matter for the Anſwer: which courſe I finde warranted by the like pra<g ref="char:EOLhyphen"/>ctice of our Saviour, and I judge it the profitableſt way in a Tractate in this nature; for thereby the Reader will be conſtrained to ſtudy the Scri<g ref="char:EOLhyphen"/>ptures to underſtand the force of them, before he can ſatisfie himſelfe with an anſwer from them: as for example, in the queſtion concerning Baptiſme, the Reader muſt weigh the circumſtances of the text, and compare it with the History in <hi>Exodus,</hi> and ſo he may be enabled to ſatisfie himſelfe in forming an Anſwer thus, All the Iſraelites preſently after their coming forth from <hi>Egypt,</hi> when many of them were little children, were Baptized by the cloud which hung over their heads. Thus much, Reader, I thought good to intimate to thee, that thou might<g ref="char:EOLhyphen"/>eſt not take offence at my method.</p>
+               </div>
+            </front>
+            <body>
+               <div type="text">
+                  <pb n="1" facs="tcp:169451:16"/>
+                  <head>
+                     <hi>A Scripture</hi> CATECHISME Very uſefull in theſe Times. Firſt Queſtion.</head>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>1</label> 
+                     <hi>
+                        <seg rend="decorInit">W</seg>Hat ſpeaks the Scripture of the doctri<g ref="char:EOLhyphen"/>nall errors of theſe latter times?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> The Spirit ſpeaketh expreſſe<g ref="char:EOLhyphen"/>ly, that in the latter times ſome ſhal depart from the faith, giving heed to ſeducing ſpirits, and doctrines of Devils. 1 <hi>Tim.</hi> 4.1.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>2</label> 
+                     <hi>What think you of the ringleaders and teachers of ſuch doctrines?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> Theſe reſiſt the truth; men of corrupt minds, repro<g ref="char:EOLhyphen"/>bate concerning the faith. 2 <hi>Tim.</hi> 3.8.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>3</label> 
+                     <hi>But may we not think them ſincere, ſeeing they pro<g ref="char:EOLhyphen"/>feſſe much holineſſe?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> Having a form of godlineſſe, but denying the power thereof. 2 <hi>Tim.</hi> 3.5.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>4</label> 
+                     <hi>But ſo far as we can judge, they are the redeemed of God: how then can you think ſo hardly of them, and their doctrines?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> There ſhall be falſe teachers among you, who privi<g ref="char:EOLhyphen"/>ly ſhall bring in damnable hereſies, even denying the Lord that bought them. 2 <hi>Pet.</hi> 2.1.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>5</label> 
+                     <hi>But if they, and their opinions were ſo groſſe, would they be followed by ſo many profeſſors?</hi>
+                  </p>
+                  <pb n="2" facs="tcp:169451:17"/>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> Many ſhall follow their pernicious wayes, by reaſon of whom the way of truth ſhall be evill ſpoken of. 2. <hi>Pet.</hi> 2.2.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>6</label> 
+                     <hi>But the teachers are ſome of them knowing men; and would they, think you, teach notorious falſehoods?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> Speaking lies in hypocriſie, having their conſcience ſcared with a hot iron. 1 <hi>Tim.</hi> 4.2.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>7</label> 
+                     <hi>Thoſe which you count the ſeducers amongst us, cry out upon Antichriſt; and do not they then ſtand for the truth?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> It is the laſt time: and as ye have heard that Anti<g ref="char:EOLhyphen"/>chriſt ſhall come, even now are there many Antichriſts, whereby we know that it is the laſt time. 1 <hi>John</hi> 2.18.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>8</label> 
+                     <hi>But is it not ſtrange that you ſhould count theſe An<g ref="char:EOLhyphen"/>tichriſts, who ſeeme rather Angels of light, and Apoſtles?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> Such are falſe Apoſtles, deceitfull workers, tranſ<g ref="char:EOLhyphen"/>forming themſelves into the Apoſtles of Chriſt; and no marvell, for Satan himſelf is transformed into an angel of light: therefore it is no great thing if his miniſters alſo be transformed as the Miniſters of righteouſneſſe, 2 <hi>Cor.</hi> 11.13, 14, 15.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>9</label> 
+                     <hi>But theſe men alledge Scripture for what they urge; and can you ſay then that they follow the Devill as his mini<g ref="char:EOLhyphen"/>ſters?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> Then the Devill taketh him up into the holy city, and ſetteth him on a pinacle of the Temple, and ſaith unto him, If thou be the Son of God, caſt thy ſelf down, for it is written He ſhall give his Angels charge concerning thee, and in their hands they ſhall bear thee up, leſt at any time thou daſh thy foot againſt a ſtone. <hi>Mat.</hi> 4.5, 6.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>10</label> 
+                     <hi>Thoſe whom you count the miniſters of Satan, do they not ſerve God according to their light?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> They that are ſuch, ſerve not our Lord Jeſus Chriſt, but their own belly. <hi>Rom.</hi> 16.18.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>11</label> 
+                     <hi>You ſeem to imply, that their hearts are corrupt, as well as their judgements: what corruption makes them ſeducers?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> Through covetouſneſſe ſhall they with feighned
+<pb n="3" facs="tcp:169451:17"/>
+words make merchandiſe of you. 2 <hi>Pet.</hi> 2, 3.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>12</label> 
+                     <hi>But all of them ſeeme not to be covetous: what corruption then ſways the reſt?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> If any man teach otherwiſe, and conſent not to wholſome words, even the words of our Lord Jeſus Chriſt, and to the Doctrine which is according to godlineſſe, he is proud, knowing nothing, but doting about queſtions, and ſtrifes of words, whereof commeth envy, ſtrife, railings, evill ſurmiſings, perverſe diſputings of men of corrupt minds, and deſtitute of the truth. 1 <hi>Tim.</hi> 6.3, 4, 5.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>13</label> 
+                     <hi>What is one maine part of their ambition?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> Of your own ſelves ſhall men ariſe, ſpeaking per<g ref="char:EOLhyphen"/>verſe things, to draw away diſciples after them. <hi>Act</hi> 20.30.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>14</label> 
+                     <hi>Is the want of Learning in ſome of their teachers any cauſe of wreſting the Scriptures?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> In which are ſome things hard to be underſtood, which they that are unlearned and unſtable, wreſt, as they do alſo the other Scriptures. 2 <hi>Pet.</hi> 3.16.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>15</label> 
+                     <hi>Do not the affecting of new notions, and other luſts in the hearers, make them ready to embrace ſeducing teachers?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> The time will come, when they will not endure ſound doctrine, but after their own luſts ſhall they heap to themſelves teachers, having itching ears; and they ſhall turn away their ears from the truth, and ſhall be turned unto fables. 2 <hi>Tim.</hi> 4, 3.4.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>16</label> 
+                     <hi>Do not alſo the weakneſſe, and ſhallowneſſe of the bearers, together with other corruptions, make them apt to be ſeduced by ſuch men?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> Of this ſort are they which creep into houſes, and lead captive ſilly women, laden with ſins, led away with divers luſts, ever learning, and never able to come to the knowledge of the truth. 2 <hi>Tim.</hi> 3.6, 7.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>17</label> 
+                     <hi>Do the falſe teachers uſe ſleights to inveigle ſuch perſons?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> That we henceforth be no more children, toſſed to and fro, and carried about with every wind of doctrine by the ſleight of men, and cunning craftineſſe whereby
+<pb n="4" facs="tcp:169451:18"/>
+they lie in wait to deceive. <hi>Epheſ.</hi> 4.14.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>18</label> 
+                     <hi>Are not ſome honeſt-meaning perſons ſeduced by their craft?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> They deceive the hearts of the ſimple. <hi>Rom.</hi> 16.18.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>19</label> 
+                     <hi>How come they to ſeduce them?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> By good words and fair ſpeeches. <hi>Rom.</hi> 16.18.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>20</label> 
+                     <hi>If thoſe whom you call ſeducers uſe ſuch good language, is there not good hopes of them?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> Evill men and ſeducers ſhall grow worſe and worſe, deceiving and being deceived. 2 <hi>Tim.</hi> 3.13.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>21</label> 
+                     <hi>How ought we to carry our ſelves towards the maintainers of hereſie? and how may we eſteeme of them?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> A man that is an Heretick, after the firſt and ſe<g ref="char:EOLhyphen"/>cond admonition reject: knowing that he that is ſuch, is ſubverted, and ſinneth, being condemned of himſelf. <hi>Tit.</hi> 3 10, 11.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>22</label> 
+                     <hi>You ſeem to hate their wayes that hold out the er<g ref="char:EOLhyphen"/>rors of the times; doth ſuch an affection become Christians?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> This thou haſt, that thou hateſt the deeds of the <hi>Ni<g ref="char:EOLhyphen"/>colaitans,</hi> which I alſo hate. <hi>Rev.</hi> 2.6.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>23</label> 
+                     <hi>You not only diſtaſte the errours, but thoſe alſo that teach them: where is your warrant for that?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> I know thy works and thy labour, and thy patience, and how thou canſt not bear them which are evill, &amp; thou haſt tried them which ſay they are apoſtles, and are not, and haſt found them lyars. <hi>Rev.</hi> 2.2.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>24</label> 
+                     <hi>Is it likely that if theſe courſes were ſo dangerous, God would ſuffer ſo many teachers to ſtand for them, and prevail ſo?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> There came forth a ſpirit, and ſtood before the Lord, and ſaid, I will perſwade him: and the Lord ſaid unto him, Wherewith? and he ſaid, I will go forth, and I will be a lying ſpirit in the mouth of all his Prophets: and he ſaid, Thou ſhalt perſwade him, and prevail alſo; go forth and do ſo: now therefore, behold, the Lord hath put a ly<g ref="char:EOLhyphen"/>ing ſpirit in the mouth of all theſe thy Prophets. 1 <hi>King.</hi> 22.21, 22, 23.</p>
+                  <pb n="5" facs="tcp:169451:18"/>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>25</label>
+                     <hi>Seeing it appears that God gives Satan a power to prevail in the mouths of ſeducers: what doth God intend thereby towards ſuch as walk cloſely with him? is it likely that they ſhall be ſeduced?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> There muſt be alſo hereſies among you, that they which are approved, may be made manifeſt among you, 1 <hi>Cor.</hi> 11.19.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>26</label> 
+                     <hi>What is Gods aime therein towards falſe-hearted profeſſors? are not they in great danger to miſcarry?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> Becauſe they received not the love of the truth, that they might be ſaved, for this cauſe God ſhall ſend them ſtrong deluſions, that they ſhould beleeve a lie: that they all might be damned, who beleeved not the truth, but had pleaſure in unrighteouſneſſe. 2 <hi>Theſ.</hi> 2.10, 11, 12.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>27</label> 
+                     <hi>What uſe muſt we make hereof?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> Ye therefore, beloved, ſeeing ye know theſe things before, beware leſt ye alſo, being led away with the errour of the wicked fall from your own ſtedfaſtneſſe: but grow in grace, and in the knowledge of our Lord and Saviour Jeſus Chriſt. 2 <hi>Pet.</hi> 3.17, 18.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>28</label> 
+                     <hi>Is there any hope that the errors ſhall be cruſht?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> The God of peace ſhall bruiſe Satan under your feet ſhortly. <hi>Rom.</hi> 16.20.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>29</label> 
+                     <hi>How is that likely, while they carry on their errors with ſuch plauſible pretences?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A </seg>
+                     </label> But they ſhall proceed no further: for their folly ſhall be manifeſt to all men. 2 <hi>Tim.</hi> 3.9.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>30</label> 
+                     <hi>In the meane while may not theſe men be conni<g ref="char:EOLhyphen"/>ved at?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> There are many unruly and vain talkers, and de<g ref="char:EOLhyphen"/>ceivers, whoſe mouths muſt bee ſtopped, who ſubvert whole houſes, teaching things which they ought not, <hi>Tit.</hi> 1.10, 11.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>31</label> 
+                     <hi>May the civill Magiſtrate meddle with thoſe that endeavour to ſeduce others into errors in matter of Religion?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> If thou do that which is evil, be afraid, for he beareth not the ſword in vain: for he is the Miniſter of God, a
+<pb n="6" facs="tcp:169451:19"/>
+revenger, to execute wrath upon him that doth evill. <hi>Rom.</hi> 13.4.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q </seg>32</label> 
+                     <hi>But though ſeducing be an evill work, may it not be good Chriſtian policy for thoſe in authority to refrain from theſe men, and let them alone?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> I have a few things againſt thee, becauſe thou ſuffe<g ref="char:EOLhyphen"/>reſt that woman <hi>Jezabel,</hi> which calleth her ſelf a prophe<g ref="char:EOLhyphen"/>teſſe, to teach and to reduce my ſervants. <hi>Rev.</hi> 2.20.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q  </seg>33</label>
+                     <hi>Some would have a Toleration of all Religions; What Scripture have you, which ſhewes that this ought not to be in time of the Goſpel?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> It ſhall come to paſſe in that day, ſaith the Lord of Hoſts, that I will cut off the names of the Idols out of the land: and they ſhall no more be remembred: and alſo I will cauſe the Prophets, and the unclean ſpirit to paſſe out of the Land. <hi>Zech.</hi> 13.2.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>34</label> 
+                     <hi>In caſe the falſe Prophets will neither depart, nor deſiſt; what courſe may be taken with them by the civill power?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> It ſhall come to paſſe that when any ſhall yet pro<g ref="char:EOLhyphen"/>phecy, then his father, and his mother that begat him, ſhall ſay unto him, thou ſhalt not live: for thou ſpeakeſt lies in the name of the Lord: and his father and his mother that begat him, ſhall thruſt him through when he prophe<g ref="char:EOLhyphen"/>cyeth. <hi>Zech.</hi> 13.3.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>35</label> 
+                     <hi>Will not this way of ſuppreſſing falſe-teachers in<g ref="char:EOLhyphen"/>creaſe, and harden them, rather then remedy that evill?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> And it ſhall come to paſſe in that day, that the Pro<g ref="char:EOLhyphen"/>phets ſhall be aſhamed every one of his viſion, when he hath propheſied: neither ſhall they wear a rough garment to deceive. <hi>Zech.</hi> 13.4.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>36</label> 
+                     <hi>Is this reſtraining of falſe-teachers by civill pu<g ref="char:EOLhyphen"/>niſhment, to be accounted perſecution, or friendſhip?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> And one ſhall ſay unto him, what are theſe wounds in thine hands? then he ſhall anſwer, thoſe with which I was wounded in the houſe of my freinds. <hi>Zech.</hi> 13.6.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>37</label> 
+                     <hi>It ſeemes you would fain have ſome courſe taken
+<pb n="7" facs="tcp:169451:19"/>
+to be rid of them; what ſpirit doth that ſavour of?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> I would they were even cut off which trouble you, <hi>Gal.</hi> 5.12.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>38</label> 
+                     <hi>Some will not be perſwaded that the Magiſtrate may puniſh for ſins againſt the firſt Table; can you ſhow that idolatrous practiſes are puniſhable by a civill power?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> If I beheld the Sunne when it ſhined, or the Moon walking in brightneſſe and mine heart hath been ſecretly entiſed, or my mouth hath kiſſed my hand: this alſo were an iniquity to be puniſhed by the Judge: for I ſhould have denied the God that is above. <hi>Joh</hi> 31.26, 27, 28.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>39</label> 
+                     <hi>What courſe is to be taken with blaſphemers?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> He that blaſphemeth the name of the Lord, he ſhall ſurely be put to death, and all the congregation ſhall cer<g ref="char:EOLhyphen"/>tainly ſtone him; as well the ſtranger as he that is born in the Land, when he blaſphemeth the name of the Lord, ſhall be put to death. <hi>Lev.</hi> 24.16.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>40</label> 
+                     <hi>In theſe times, wherein errours are ſo riſe, what is the Miniſters charge?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> Holding faſt the faithfull word, as he hath beene taught, that he may be able by ſound doctrine, both to exhort and convince the gain-ſayers. <hi>Tit.</hi> 1.9.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>41</label> 
+                     <hi>Do Miniſters well to ſtir up the people, to with<g ref="char:EOLhyphen"/>ſtand the errours of the times?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> It was needfull for me to write unto you, and ex<g ref="char:EOLhyphen"/>hort you, that ye ſhould earneſtly contend for the faith which was once delivered unto the Saints. <hi>Jude</hi> 3.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>42</label> 
+                     <hi>Is it warrantable publikely to brand the names of Hereticks and Seducers, that ſo men may be ſhye of tehm?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> Their word will eat as doth a Canker, of whom is <hi>Hymeneus</hi> and <hi>Philetus:</hi> who concerning the truth have erred, ſaying, that the Reſurrection is paſt already, and overthrow the faith of ſome. 2 <hi>Tim.</hi> 2.17, 18.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>43</label> 
+                     <hi>Till ſome courſe be taken for their ſuppreſſion, what courſe muſt I take to keep out of the way of errour?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> Now I beſeech you, brethren, mark them which cauſe diviſions and offences, contrary to the doctrine
+<pb n="8" facs="tcp:169451:20"/>
+which ye have learned, and avoid them. <hi>Rom.</hi> 16.17.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>44</label> 
+                     <hi>Beſides ſhunning their company, what elſe muſt we do?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> Beloved, beleeve not every ſpirit, but try the ſpirits, whether they are of God: becauſe many falſe prophets are gone out into the world. 1 <hi>John</hi> 4.1.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>45</label> 
+                     <hi>You would have us very ſuſpicious in theſe times; what generall ground have you, whom to ſuſpect as un<g ref="char:EOLhyphen"/>ſound?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> They went out from us, but they were not of us: for if they had been of us, they would no doubt have continu<g ref="char:EOLhyphen"/>ed with us: but they went out, that they might be made manifeſt, that they were not all of us. 1 <hi>John</hi> 2.19.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>46</label> 
+                     <hi>Many which ſeparate, cry down your miniſtery for Antichriſtian, and ſpeak much of the ſpirit; what can you ſay about them?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> Beloved remember ye the words which were ſpoken before of the Apoſtles of our Lord Jeſus Chriſt, how that they told you, there ſhould be mockers in the laſt time, who ſhould walk after their own ungodly luſts: theſe be they who ſeparate themſelves, ſenſuall, having not the ſpirit. <hi>Jude</hi> 17, 18, 19.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>47</label> 
+                     <hi>They have been very earneſt with me to forſake your miniſters: what is their deſigne in that?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> They zealouſly affect you, but not well: yea, they would exclude you, that you might affect them. <hi>Gal.</hi> 4.17.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>48</label> 
+                     <hi>How can you justifie againſt them, your miniſtery of the Church of England?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> The ſeal of my Apoſtleſhip are ye in the Lord. 1 <hi>Cor.</hi> 9.2.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>49</label> 
+                     <hi>Is then the ordinary converſion of ſouls a demon<g ref="char:EOLhyphen"/>ſtrative argument of a right miniſtery?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A </seg>
+                     </label> How ſhall they beleeve in him of whom they have not heard? and how ſhall they hear without a preacher? and how ſhall they preach except they be ſent? <hi>Rom.</hi> 10.14, 15.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>50</label> 
+                     <hi>They deny your Church of England, and ſay
+<pb n="9" facs="tcp:169451:20"/>
+there is no Church viſible in the New Teſtament, but a par<g ref="char:EOLhyphen"/>ticular congregation; how prove you the contrary?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> God hath ſet ſome in the Church, firſt Apoſtles, ſe<g ref="char:EOLhyphen"/>condarily Prophets, thirdly Teachers, after that miracles, then gifts of healings, helps in governments, diverſities of tongues. 1 <hi>Cor.</hi> 12.28.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>51</label> 
+                     <hi>Have you any further warrant to judge that there may be Nationall Churches in Goſpel times?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> In the laſt dayes it ſhall come to paſſe that the mountain of the houſe of the Lord ſhall be eſtabliſhed in the top of the mountains, and it ſhall bee exalted above the hills, and people ſhall flow unto it, and many Nati<g ref="char:EOLhyphen"/>ons ſhall come and ſay, Come, let us go up to the moun<g ref="char:EOLhyphen"/>tain of the Lord, &amp;c. <hi>Mich</hi> 4.1, 2.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>52</label> 
+                     <hi>Some diſtaſt your aſſemblies, becauſe they are kept in thoſe places which are ſet apart for publike worſhip. What warrant have you for preaching in ſuch pariſh meeting houſes as are commonly called Churches?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> Jeſus anſwered him, I ſpake openly to the world, I ever taught in the Synagogue, and in the Temple, whi<g ref="char:EOLhyphen"/>ther the Jewes alwayes reſort; and in ſecret have I ſaid nothing. <hi>John</hi> 18.20.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q </seg>53</label>
+                     <hi>Others diſlike your Miniſters, becauſe they do not work for their livings, as</hi> Paul <hi>did; what ſay you to that?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> Or I only and <hi>Barnabas,</hi> have not we power to forbear working? who goeth a warfare any time at his own charges? who planteth a vineyard, and eat<g ref="char:EOLhyphen"/>eth not of the fruit thereof? or who feedeth a flock, and eateth not of the milk of the flock? ſay I theſe things as a man? or ſaith not the Law the ſame alſo? 1 <hi>Cor.</hi> 9.6, 7, 8.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q </seg>54</label>
+                     <hi>But your Miniſters are maintained by Tyths: were not they proper to the Leviticall Prieſthood, and therefore to be aboliſhed with it?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> He whoſe deſcent is not counted from them, recei<g ref="char:EOLhyphen"/>ved Tyths of <hi>Abraham,</hi> and bleſſed him that had the pro<g ref="char:EOLhyphen"/>miſes, <hi>Heb.</hi> 7.6.</p>
+                  <pb n="10" facs="tcp:169451:21"/>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>55</label> 
+                     <hi>Others ſeparate onely from the Communion, be<g ref="char:EOLhyphen"/>cauſe unworthy receivers are known to come to the Table: how may their conſciences be ſatisfied, till diſcipline be resto<g ref="char:EOLhyphen"/>red more exactly?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> Let a man examine himſelf, and ſo let him eat of that bread, and drink of that cup: for he that eateth and drinketh unworthily, eateth and drinketh damnation to himſelf. 1 <hi>Cor.</hi> 11.28, 29.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>56</label> 
+                     <hi>Others take exception chiefly at your adminiſtring of baptiſme: can you ſhew them by Scripture the baptizing of infants; and that without dipping?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> Brethren, I would not that ye ſhould be ignorant, how that our fathers were under the cloud, and all paſſed thorow the Sea, and were all baptized unto <hi>Moſes</hi> in the cloud. &amp;c. 1 <hi>Cor.</hi> 10.1, 2.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>57</label> 
+                     <hi>But you ſerve God according to a Directory: where is your warrant for that?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> One of his diſciples ſaid unto him, Lord, teach us to pray, as <hi>John</hi> alſo taught his diſciples: and he ſaid unto them, When ye pray, ſay, Our Father which art in Hea<g ref="char:EOLhyphen"/>ven, hallowed be thy Name, &amp;c. <hi>Luke</hi> 11.1, 2.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>58</label> 
+                     <hi>But where is your warrant for ſinging of Pſalms together at your meetings?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> Let the word of Chriſt dwell in you richly in all wiſdom, teaching and admoniſhing one another, in Pſalms, and Hymnes, and ſpirituall ſongs, ſinging with grace in your hearts to the Lord. <hi>Col.</hi> 3.16.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>59</label> 
+                     <hi>Others diſlike the matter of your preaching ge<g ref="char:EOLhyphen"/>nerally, as too legall for theſe Goſpel-times: what generall anſwer will you give them?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> Do we then make void the Law through faith? God forbid: yea, we eſtabliſh the Law. <hi>Rom.</hi> 3.31.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>60</label> 
+                     <hi>Is it our duty then to keep the Law?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> If you fulfill the royall law, according to the Scri<g ref="char:EOLhyphen"/>pture, thou ſhalt love thy neighbour as thy ſelf, ye do well. <hi>James</hi> 2.8.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>61</label> 
+                     <hi>But what if we fail in any point of the Law?</hi>
+                  </p>
+                  <pb n="11" facs="tcp:169451:21"/>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> Ye commit ſin, and are convinced of the Law as tranſgreſſours, for whoſoever ſhall keep the whole Law, and yet offend in one point, he is guilty of all. <hi>James</hi> 2.9, 10.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>62</label> 
+                     <hi>Should then a child of God take notice of, and lay to heart the guilt of his ſins?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> Deliver me from blood-guiltineſſe O God. <hi>Pſalm</hi> 51.14.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>63</label> 
+                     <hi>Some ſay,</hi> David <hi>was under another diſpenſation then we are: can you ſhow them the like precedent before the covenant from mount Sinai, which gendereth to bondage?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> I have ſinned, what ſhall I do unto thee, O thou preſerver of men? why haſt thou ſet me as a mark againſt thee, ſo that I am a burden unto my ſelfe? and why doſt thou not pardon my tranſgreſſion, and take away mine i<g ref="char:EOLhyphen"/>niquity? <hi>Job</hi> 7.20, 21.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>64</label> 
+                     <hi>What ſhould a child of God do then to get his ſins pardoned?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> Forgive us our ſins. <hi>Luke</hi> 11.4.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>65</label> 
+                     <hi>What muſt he do beſides praying for pardon?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> If we confeſſe our ſinnes, he is faithfull, and juſt to forgive us our ſins. 1 <hi>John</hi> 1.9.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>66</label> 
+                     <hi>What further condition is there required of a child of God for the obtaining of pardon?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> If ye forgive men their treſpaſſes, your heavenly Fa<g ref="char:EOLhyphen"/>ther will alſo forgive you: but if ye forgive not men their treſpaſſes, neither will your Father forgive your treſpaſ<g ref="char:EOLhyphen"/>ſes. <hi>Mat.</hi> 6.14 15.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>67</label> 
+                     <hi>Your doctrine implies, that God obſerves the ſi<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> of his people: can you prove that?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> Nevertheleſſe, I have ſomewhat againſt thee, be<g ref="char:EOLhyphen"/>cauſe thou haſt left thy firſt love. <hi>Rev.</hi> 2.4.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>68</label> 
+                     <hi>Doth God alſo correct his children for their ſins?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> For this cauſe many are weak and ſickly among you, and many ſleep; for if we would judge our ſelves, we ſhould not be judged; but when we are judged, we are chaſtened of the Lord, that we ſhould not be condem<g ref="char:EOLhyphen"/>ned
+<pb n="12" facs="tcp:169451:22"/>
+with the world. 1 <hi>Corinth.</hi> 11.30, 31, 32.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>69</label> 
+                     <hi>May then a child of God, when he is corrected, look upon God as angry, and upon ſin as the procuring cauſe?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> I will bear the indignation of the Lord, becauſe I have ſinned againſt him, untill he plead my cauſe, and ex<g ref="char:EOLhyphen"/>ecute judgement for me: he will bring me forth to the light, and I ſhall behold his righteouſneſſe, <hi>Mic.</hi> 7.9.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>70</label> 
+                     <hi>Why? muſt not a Chriſtian look upon Gods love, and not upon his dreadfulneſſe?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> We receiving a Kingdom which cannot be moved, let us have grace, whereby we may ſerve God acceptably, with reverence and godly fear; for our God is a conſuming fire. <hi>Heb.</hi> 12 28, 29.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q </seg>71</label>
+                     <hi>Would you have a child of God mourn for his ſinnes?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> I will pour upon the houſe of <hi>David,</hi> and upon the inhabitants of Jeruſalem the ſpirit of grace and of ſuppli<g ref="char:EOLhyphen"/>cations, and they ſhall look upon me whom they have pierced, and they ſhall mourn for him, as one mourneth for his only ſon, and ſhall be in bitterneſſe for him, as one that is in bitterneſſe for his firſt born. <hi>Zech.</hi> 12.10.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>72</label> 
+                     <hi>Would you have Christians to try the goodneſſe of their estates by the work of grace in them?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> Examine your ſelves, whether you be in the faith: prove your own ſelves; know ye not your own ſelves, how that Jeſus Chriſt is in you, except ye be reprobates? 2 <hi>Cor.</hi> 13.5.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>73</label> 
+                     <hi>What evident mark can you inſtance in, for a Chriſtian to try himſelf by?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> We know that we have paſſed from death to life, be<g ref="char:EOLhyphen"/>cauſe we love the brethren. 1 <hi>John</hi> 3.14.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>74</label> 
+                     <hi>Should we now have legall terrours preſt?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> Others ſave with fear, pulling them out of the fire. <hi>Jude</hi> 23.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>75</label> 
+                     <hi>Are the threatnings uſefull to the godly?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> If I have lift up my hand againſt the fatherleſſe, when I ſaw my help in the gate: then let my arme fall
+<pb n="13" facs="tcp:169451:22"/>
+from my ſhoulder-blade, and mine arme be broken from the bone; for deſtruction from God was a terrour to me; and by reaſon of his highneſſe, I could not endure. <hi>Job</hi> 31.21, 22, 23.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>76</label> 
+                     <hi>Is there any farther uſe of terrors to the godly, beſides for reſtraint from ſin?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> Work out your own ſalvation with fear and trem<g ref="char:EOLhyphen"/>bling. <hi>Phil.</hi> 2.12.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>77</label> 
+                     <hi>Doth fear of Gods threatnings ariſe from the weak<g ref="char:EOLhyphen"/>neſſe of the godly, or from their faith?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> By faith <hi>Noah</hi> being warned of God, of things not ſeen as yet, moved with fear, prepared an Ark to the ſa<g ref="char:EOLhyphen"/>ving of his houſe. <hi>Heb.</hi> 11.7.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q  </seg>78</label>
+                     <hi>Some would have the Sabbath to be kept but as other dayes of the week; What ſay you to them?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> Remember the Sabbath day to keep it holy, ſix dayes ſhalt thou labour, and do all thy work; but the ſeventh day is the Sabbath of the Lord thy God, in it thou ſhalt not do any work, &amp;c. <hi>Exod.</hi> 20.8, 9, 10.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>79</label> 
+                     <hi>They ſay this is Jewiſh, and Ceremoniall; ſhow them a Sabbath inſtituted before there were either Jewes as any of their ceremonies?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> And on the ſeventh day God ended his work which he had made: and he reſted on the ſeventh day from all his work which he had made, and God bleſſed the ſeventh day, and ſanctified it, &amp;c. <hi>Gen.</hi> 2.2, 3.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>80</label> 
+                     <hi>Should wicked men pray to God?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> Pray God, if perhaps the thought of thine heart may be forgiven thee; for I perceive thou art in the gall of bitterneſſe, and in the bond of iniquity. <hi>Acts</hi> 8.22, 23.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>81</label> 
+                     <hi>Is the uſuall diſcourſe of hard controverſies among weak Chriſtians to be approved?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> Him that is weak in the faith, receive you, but not to doubtfull diſputations. <hi>Rom.</hi> 14.1.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>82</label> 
+                     <hi>If I have a true opinion, which cannot be vented without offence, may I vent it?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> Haſt thou faith? have it to thy ſelfe before
+<pb n="14" facs="tcp:169451:23"/>
+God: happy is he that condemneth not himſelf in that thing which he alloweth. <hi>Rom.</hi> 14.22.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>83</label> 
+                     <hi>Some preſſe very much for Uniformity; is that according to the Scriptures?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> Now I beſeech you brethren, by the name of our Lord Jeſus Chriſt, that yee all ſpeak the ſame thing and that there be no diviſions among you, but that ye be perfectly joyned together in the ſame mind, and in the ſame judgement. 1 <hi>Cor.</hi> 1.10.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>84</label> 
+                     <hi>By what arguments doth the Scripture urge this?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> If there be any conſolation in Chriſt, if any com<g ref="char:EOLhyphen"/>fort of love; if any fellowſhip of the Spirit, if any bowels and mercies, fulfill ye my joy, that yee be like minded, be<g ref="char:EOLhyphen"/>ing of one accord, of one mind. <hi>Phil.</hi> 2.1, 2.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>85</label> 
+                     <hi>What directions must we follow, that we may at<g ref="char:EOLhyphen"/>tain this Unity?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> Let nothing be done through ſtrife or vain-glory, but in lowlineſſe of mind let each eſteem other better then themſelves. <hi>Phil.</hi> 2.3.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>86</label> 
+                     <hi>What reſpect ought the ſtrong Chriſtian to bear towards the weak?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> Let not him that eateth deſpiſe him that eateth not. <hi>Rom.</hi> 14.3.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>87</label> 
+                     <hi>What reſpect ought the weaker Chriſtian to carry towards the ſtronger?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> Let not him which eateth not, judge him that eat<g ref="char:EOLhyphen"/>eth. <hi>Rom.</hi> 14.3.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>88</label> 
+                     <hi>Some queſtion the lawfulneſſe of keeping publike Faſts appointed by the Magiſtrate; what have you in Scri<g ref="char:EOLhyphen"/>pture that might ſatisfie them?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> 
+                     <hi>Jehoſaphat</hi> feared, and ſet himſelf to ſeek the Lord, and proclaimed a Faſt throughout all <hi>Judah,</hi> and <hi>Judah</hi> gathered themſelves together to aske help of the Lord, even out of all the Cities of <hi>Judah</hi> they came to ſeek the Lord. 2 <hi>Chron.</hi> 20.3.4.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>89</label> 
+                     <hi>Hath the Magiſtrate power alſo to appoint a day to be kept yeerly, to celebrate ſome nationall mercy?</hi>
+                  </p>
+                  <pb n="15" facs="tcp:169451:23"/>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> 
+                     <hi>Eſter</hi> the Queen, and <hi>Mordecai</hi> the Jew, wrote with all authority, to confirm theſe dayes of Purim in their times appointed, according as <hi>Mordecai</hi> the Jew and <hi>Eſter</hi> the Queen had enjoyned them, and as they had de<g ref="char:EOLhyphen"/>creed for themſelves, and for their ſeed, the matters of the faſtings and their cry. <hi>Est.</hi> 9 29.31.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>90</label> 
+                     <hi>I perceive you grant much to the civill powers, what if they ſhould take upon them to do that which belongs properly to Church officers, ſhould that alſo be yeelded to them?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> They withſtood <hi>
+                        <g ref="char:V">Ʋ</g>zziah</hi> the King, and ſaid unto him, It pertaineth not unto thee, <hi>
+                        <g ref="char:V">Ʋ</g>zziah,</hi> to burn In<g ref="char:EOLhyphen"/>cenſe unto the Lord, but to the Prieſts, the ſonnes of <hi>Aaron,</hi> that were conſecrated to burn Incenſe; go out of the Sanctuary, for thou haſt treſpaſſed, neither ſhall it be for thine honour from the Lord God. 1 <hi>Chron.</hi> 26.18.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>91</label> 
+                     <hi>In theſe dayes many private men that are brought up to worldly callings, take upon them to preach; is this pra<g ref="char:EOLhyphen"/>ctiſe to be juſtified, or diſapproved?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> He ſhall ſay I am no prophet, I am an husbandman; for man taught me to keep cattle from my youth. <hi>Zech.</hi> 13.5.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>92</label> 
+                     <hi>Thoſe Miniſters that have ſpent their eſtates and times to fit themſelves for that calling, have their main<g ref="char:EOLhyphen"/>tenance with-held by many, and divers have petitioned to have it taken away; how will God take this at their hands?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> Will a man rob God? yet ye have robbed me; but ye ſay, wherein have we robbed thee? in Tythes and Offerings: ye are curſed with a curſe, &amp;c. <hi>Mal.</hi> 3.8, 9.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>93</label> 
+                     <hi>You ſpeak of Miniſter as ſeparated from the or<g ref="char:EOLhyphen"/>dinary ranke of Chriſtians; what is requiſite for the making of a Minister beſides gifts?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> The holy Ghoſt ſaid, ſeparate me <hi>Barnabas</hi> and <hi>Saul</hi> for the work whereunto I have called them: and when they had faſted and prayed, and layed their hands on them, they ſent them away. <hi>Acts</hi> 13.2, 3.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q  </seg>94</label>
+                     <hi>By whom ought the Miniſters to be ordained?</hi>
+                  </p>
+                  <pb n="16" facs="tcp:169451:24"/>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> Neglect not the gift that is in thee, which was given thee by prophecy, with the laying on of the hands of the Presbytery. 1 <hi>Tim.</hi> 4.14.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>95</label> 
+                     <hi>Is the power of Church diſcipline in the people or in the Officers of the Church?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> Having then gifts differing according to the grace that is given to us, whether prophecy, let us prophecy ac<g ref="char:EOLhyphen"/>cording to the proportion of faith; or miniſtry, let us wait on our miniſtring; or he that teacheth, on teaching; or he that exhorteth, on exhortation: he that giveth, let him do it with ſimplicity; he that ruleth, with diligence. <hi>Rom.</hi> 12.6, 7, 8.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>96</label> 
+                     <hi>Should the people attend upon the miniſtry of thoſe whom God hath placed over them? or may they go in<g ref="char:EOLhyphen"/>differently to any other profitable Miniſter?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> Obey them that have the rule over you, and ſubmit your ſelves; for they watch for your ſouls, as they that muſt give account, that they may do it with joy, and not with greif, for that is unprofitable to you. <hi>Heb.</hi> 13.17.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>97</label> 
+                     <hi>Have Synods or Elders of Churches aſſembled together, power to determine differences, and make decrees?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> As they went thorough the Cities they delivered them the decrees for to keep, that were ordained of the Apoſtles and Elders which were at Jeruſalem. <hi>Acts</hi> 16.4.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> 
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>98</label> 
+                     <hi>I have heard a book written to prove that the ſoule of man remains not after death; how will you con<g ref="char:EOLhyphen"/>fute that?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> He went and preached to the ſpirits in priſon; which ſometimes were diſobedient, when once the long-ſuffering of God waited in the dayes of <hi>Noah.</hi> 1 <hi>Pet.</hi> 3.19, 20.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>99</label> 
+                     <hi>They ſay there is another book out, to prove that a man may put away his wife, if ſhe be not a meet helper: how may I anſwer all the arguments there alledged?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> It hath been ſaid, whoſoever ſhall put away his wife, let him give her a writing of a divorcement: but I ſay unto you, that whoſoever ſhall put away his wife, ſa<g ref="char:EOLhyphen"/>ving
+<pb n="17" facs="tcp:169451:24"/>
+for the cauſe of fornication, cauſeth her to commit adultery: and whoſoever ſhall marry her that is divorced, committeth adultery. <hi>Mat.</hi> 5.31, 32.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Q. </seg>100</label> 
+                     <hi>There are many other new opinions, that men teach and write for, with ſpecious arguments; I would fain be ſatisfied about them: how ſhall I diſcern the truth?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">A. </seg>
+                     </label> If any of you lack wiſdom, let him ask of God, that giveth to all men liberally and upbraideth not, and it ſhal be given him. <hi>James</hi> 1.5.</p>
+                  <p>If any man will do his will, he ſhall know of the do<g ref="char:EOLhyphen"/>ctrine whether it be of God, &amp;c. <hi>John</hi> 7.17.</p>
+                  <p>To the Law, and to the teſtimony, if they ſpeak not according to this word, it is becauſe there is no light in them. <hi>Iſa.</hi> 8.20.</p>
+                  <p>The Prieſts lips ſhould keep knowledge, and they ſhould ſeek the Law at his mouth, for he is the meſſen<g ref="char:EOLhyphen"/>ger of the Lord of Hoſts. <hi>Mal.</hi> 2.7.</p>
+                  <p>If they be aſhamed of all that they have done; ſhow them the form of the houſe; and the faſhion thereof, &amp;c. <hi>Ezech.</hi> 43.11.</p>
+               </div>
+               <div type="postscript">
+                  <pb n="18" facs="tcp:169451:25"/>
+                  <head>Poſtſcript to the judicious Reader.</head>
+                  <p>IF thou haſt read over this Catechiſme, thou mayeſt eaſily perceive that it was penned for Chriſtians of the loweſt form: to whom the Authour intended, with briefneſſe, clearneſſe and Scripture-language, to give generall notes for caution againſt all the dangerous Doctrines of the times, and ſpeciall hints for ſatisfaction concerning ſome of the moſt obvious miſtakes and er<g ref="char:EOLhyphen"/>rors. If the ſight of this may occaſion from thee a fuller, and exacter Treatiſe of this na<g ref="char:EOLhyphen"/>ture, none ſhall be more willing to ſtudy ſuch a Catechiſme then my ſelf.</p>
+                  <closer>
+                     <signed>Thine and the truths, <hi>I. K.</hi>
+                     </signed>
+                  </closer>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
